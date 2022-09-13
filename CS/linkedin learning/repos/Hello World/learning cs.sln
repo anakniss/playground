@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello World", "Hello World\Hello World.csproj", "{F864569C-2C6E-45BC-AC16-79A65C943F47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primeiros passos", "..\Primeiros Passos\Primeiros passos\Primeiros passos.csproj", "{98B22CC4-92EA-4367-83CA-FBC28A304AC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estruturas de Decisão", "Estruturas de Decisão\Estruturas de Decisão.csproj", "{EE32C5A3-28FC-4441-9EC1-362EA4E40B87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coleções", "Coleções\Coleções.csproj", "{C73D114A-27F6-448D-9FD1-1459A36CD314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orientação a Objetos", "Orientação a Objetos\Orientação a Objetos.csproj", "{E57C4C8E-153C-433B-BC0B-892E4075D1AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoLL", "..\Desafio\BancoLL\BancoLL.csproj", "{102960FA-7DF1-4094-ABB9-6A7AD0CFAD3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F864569C-2C6E-45BC-AC16-79A65C943F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F864569C-2C6E-45BC-AC16-79A65C943F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F864569C-2C6E-45BC-AC16-79A65C943F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F864569C-2C6E-45BC-AC16-79A65C943F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B22CC4-92EA-4367-83CA-FBC28A304AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B22CC4-92EA-4367-83CA-FBC28A304AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B22CC4-92EA-4367-83CA-FBC28A304AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B22CC4-92EA-4367-83CA-FBC28A304AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE32C5A3-28FC-4441-9EC1-362EA4E40B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE32C5A3-28FC-4441-9EC1-362EA4E40B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE32C5A3-28FC-4441-9EC1-362EA4E40B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE32C5A3-28FC-4441-9EC1-362EA4E40B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73D114A-27F6-448D-9FD1-1459A36CD314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73D114A-27F6-448D-9FD1-1459A36CD314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73D114A-27F6-448D-9FD1-1459A36CD314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73D114A-27F6-448D-9FD1-1459A36CD314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57C4C8E-153C-433B-BC0B-892E4075D1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57C4C8E-153C-433B-BC0B-892E4075D1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57C4C8E-153C-433B-BC0B-892E4075D1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57C4C8E-153C-433B-BC0B-892E4075D1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102960FA-7DF1-4094-ABB9-6A7AD0CFAD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102960FA-7DF1-4094-ABB9-6A7AD0CFAD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102960FA-7DF1-4094-ABB9-6A7AD0CFAD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102960FA-7DF1-4094-ABB9-6A7AD0CFAD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E637EF3-8D63-4123-B229-220062E28E28}
+	EndGlobalSection
+EndGlobal

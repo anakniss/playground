@@ -1,0 +1,15 @@
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\bin\Debug\net6.0\long term investment.exe
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\bin\Debug\net6.0\long term investment.deps.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\bin\Debug\net6.0\long term investment.runtimeconfig.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\bin\Debug\net6.0\long term investment.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\bin\Debug\net6.0\ref\long term investment.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\bin\Debug\net6.0\long term investment.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\obj\Debug\net6.0\long term investment.csproj.AssemblyReference.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\obj\Debug\net6.0\long term investment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\obj\Debug\net6.0\long term investment.AssemblyInfoInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\obj\Debug\net6.0\long term investment.AssemblyInfo.cs
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\obj\Debug\net6.0\long term investment.csproj.CoreCompileInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\obj\Debug\net6.0\long term investment.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\obj\Debug\net6.0\ref\long term investment.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\obj\Debug\net6.0\long term investment.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\long term investment\obj\Debug\net6.0\long term investment.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\bin\Debug\net6.0\variable assignments.exe
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\bin\Debug\net6.0\variable assignments.deps.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\bin\Debug\net6.0\variable assignments.runtimeconfig.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\bin\Debug\net6.0\variable assignments.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\bin\Debug\net6.0\ref\variable assignments.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\bin\Debug\net6.0\variable assignments.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\obj\Debug\net6.0\variable assignments.csproj.AssemblyReference.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\obj\Debug\net6.0\variable assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\obj\Debug\net6.0\variable assignments.AssemblyInfoInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\obj\Debug\net6.0\variable assignments.AssemblyInfo.cs
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\obj\Debug\net6.0\variable assignments.csproj.CoreCompileInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\obj\Debug\net6.0\variable assignments.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\obj\Debug\net6.0\ref\variable assignments.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\obj\Debug\net6.0\variable assignments.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\variable assignments\obj\Debug\net6.0\variable assignments.genruntimeconfig.cache

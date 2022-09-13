@@ -1,0 +1,15 @@
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\bin\Debug\net6.0\for types.exe
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\bin\Debug\net6.0\for types.deps.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\bin\Debug\net6.0\for types.runtimeconfig.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\bin\Debug\net6.0\for types.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\bin\Debug\net6.0\ref\for types.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\bin\Debug\net6.0\for types.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\obj\Debug\net6.0\for types.csproj.AssemblyReference.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\obj\Debug\net6.0\for types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\obj\Debug\net6.0\for types.AssemblyInfoInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\obj\Debug\net6.0\for types.AssemblyInfo.cs
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\obj\Debug\net6.0\for types.csproj.CoreCompileInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\obj\Debug\net6.0\for types.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\obj\Debug\net6.0\ref\for types.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\obj\Debug\net6.0\for types.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\for types\obj\Debug\net6.0\for types.genruntimeconfig.cache

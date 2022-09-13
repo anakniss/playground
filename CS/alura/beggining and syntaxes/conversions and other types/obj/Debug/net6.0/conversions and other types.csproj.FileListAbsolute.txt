@@ -1,0 +1,15 @@
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\bin\Debug\net6.0\conversions and other types.exe
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\bin\Debug\net6.0\conversions and other types.deps.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\bin\Debug\net6.0\conversions and other types.runtimeconfig.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\bin\Debug\net6.0\conversions and other types.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\bin\Debug\net6.0\ref\conversions and other types.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\bin\Debug\net6.0\conversions and other types.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\obj\Debug\net6.0\conversions and other types.csproj.AssemblyReference.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\obj\Debug\net6.0\conversions and other types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\obj\Debug\net6.0\conversions and other types.AssemblyInfoInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\obj\Debug\net6.0\conversions and other types.AssemblyInfo.cs
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\obj\Debug\net6.0\conversions and other types.csproj.CoreCompileInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\obj\Debug\net6.0\conversions and other types.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\obj\Debug\net6.0\ref\conversions and other types.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\obj\Debug\net6.0\conversions and other types.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\conversions and other types\obj\Debug\net6.0\conversions and other types.genruntimeconfig.cache

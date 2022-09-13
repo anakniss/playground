@@ -1,0 +1,15 @@
+C:\Users\anakn\source\repos\Hello World\Coleções\bin\Debug\net6.0\Coleções.exe
+C:\Users\anakn\source\repos\Hello World\Coleções\bin\Debug\net6.0\Coleções.deps.json
+C:\Users\anakn\source\repos\Hello World\Coleções\bin\Debug\net6.0\Coleções.runtimeconfig.json
+C:\Users\anakn\source\repos\Hello World\Coleções\bin\Debug\net6.0\Coleções.dll
+C:\Users\anakn\source\repos\Hello World\Coleções\bin\Debug\net6.0\ref\Coleções.dll
+C:\Users\anakn\source\repos\Hello World\Coleções\bin\Debug\net6.0\Coleções.pdb
+C:\Users\anakn\source\repos\Hello World\Coleções\obj\Debug\net6.0\Coleções.csproj.AssemblyReference.cache
+C:\Users\anakn\source\repos\Hello World\Coleções\obj\Debug\net6.0\Coleções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anakn\source\repos\Hello World\Coleções\obj\Debug\net6.0\Coleções.AssemblyInfoInputs.cache
+C:\Users\anakn\source\repos\Hello World\Coleções\obj\Debug\net6.0\Coleções.AssemblyInfo.cs
+C:\Users\anakn\source\repos\Hello World\Coleções\obj\Debug\net6.0\Coleções.csproj.CoreCompileInputs.cache
+C:\Users\anakn\source\repos\Hello World\Coleções\obj\Debug\net6.0\Coleções.dll
+C:\Users\anakn\source\repos\Hello World\Coleções\obj\Debug\net6.0\ref\Coleções.dll
+C:\Users\anakn\source\repos\Hello World\Coleções\obj\Debug\net6.0\Coleções.pdb
+C:\Users\anakn\source\repos\Hello World\Coleções\obj\Debug\net6.0\Coleções.genruntimeconfig.cache

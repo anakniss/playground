@@ -1,0 +1,15 @@
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\bin\Debug\net6.0\calculate savings.exe
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\bin\Debug\net6.0\calculate savings.deps.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\bin\Debug\net6.0\calculate savings.runtimeconfig.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\bin\Debug\net6.0\calculate savings.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\bin\Debug\net6.0\ref\calculate savings.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\bin\Debug\net6.0\calculate savings.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\obj\Debug\net6.0\calculate savings.csproj.AssemblyReference.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\obj\Debug\net6.0\calculate savings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\obj\Debug\net6.0\calculate savings.AssemblyInfoInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\obj\Debug\net6.0\calculate savings.AssemblyInfo.cs
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\obj\Debug\net6.0\calculate savings.csproj.CoreCompileInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\obj\Debug\net6.0\calculate savings.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\obj\Debug\net6.0\ref\calculate savings.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\obj\Debug\net6.0\calculate savings.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\calculate savings\obj\Debug\net6.0\calculate savings.genruntimeconfig.cache

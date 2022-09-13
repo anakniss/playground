@@ -1,0 +1,15 @@
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\bin\Debug\net6.0\characters and texts.exe
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\bin\Debug\net6.0\characters and texts.deps.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\bin\Debug\net6.0\characters and texts.runtimeconfig.json
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\bin\Debug\net6.0\characters and texts.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\bin\Debug\net6.0\ref\characters and texts.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\bin\Debug\net6.0\characters and texts.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\obj\Debug\net6.0\characters and texts.csproj.AssemblyReference.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\obj\Debug\net6.0\characters and texts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\obj\Debug\net6.0\characters and texts.AssemblyInfoInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\obj\Debug\net6.0\characters and texts.AssemblyInfo.cs
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\obj\Debug\net6.0\characters and texts.csproj.CoreCompileInputs.cache
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\obj\Debug\net6.0\characters and texts.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\obj\Debug\net6.0\ref\characters and texts.dll
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\obj\Debug\net6.0\characters and texts.pdb
+C:\Users\anakn\Documents\Coding\CS\alura\beggining and syntaxes\characters and texts\obj\Debug\net6.0\characters and texts.genruntimeconfig.cache

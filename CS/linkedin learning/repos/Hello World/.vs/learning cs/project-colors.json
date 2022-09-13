@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f864569c-2c6e-45bc-ac16-79a65c943f47": {
+      "ProjectGuid": "f864569c-2c6e-45bc-ac16-79a65c943f47",
+      "DisplayName": "hello world",
+      "ColorIndex": 0
+    },
+    "98b22cc4-92ea-4367-83ca-fbc28a304ac9": {
+      "ProjectGuid": "98b22cc4-92ea-4367-83ca-fbc28a304ac9",
+      "DisplayName": "primeiros passos",
+      "ColorIndex": 1
+    },
+    "ee32c5a3-28fc-4441-9ec1-362ea4e40b87": {
+      "ProjectGuid": "ee32c5a3-28fc-4441-9ec1-362ea4e40b87",
+      "DisplayName": "estruturas de decisão",
+      "ColorIndex": 2
+    },
+    "c73d114a-27f6-448d-9fd1-1459a36cd314": {
+      "ProjectGuid": "c73d114a-27f6-448d-9fd1-1459a36cd314",
+      "DisplayName": "coleções",
+      "ColorIndex": 3
+    },
+    "102960fa-7df1-4094-abb9-6a7ad0cfad3a": {
+      "ProjectGuid": "102960fa-7df1-4094-abb9-6a7ad0cfad3a",
+      "DisplayName": "BancoLL",
+      "ColorIndex": 4
+    },
+    "e57c4c8e-153c-433b-bc0b-892e4075d1ae": {
+      "ProjectGuid": "e57c4c8e-153c-433b-bc0b-892e4075d1ae",
+      "DisplayName": "orientação a objetos",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

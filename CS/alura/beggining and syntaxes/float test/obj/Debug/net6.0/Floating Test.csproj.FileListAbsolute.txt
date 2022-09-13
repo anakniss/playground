@@ -1,0 +1,15 @@
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\bin\Debug\net6.0\Floating Test.exe
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\bin\Debug\net6.0\Floating Test.deps.json
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\bin\Debug\net6.0\Floating Test.runtimeconfig.json
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\bin\Debug\net6.0\Floating Test.dll
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\bin\Debug\net6.0\ref\Floating Test.dll
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\bin\Debug\net6.0\Floating Test.pdb
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\obj\Debug\net6.0\Floating Test.csproj.AssemblyReference.cache
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\obj\Debug\net6.0\Floating Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\obj\Debug\net6.0\Floating Test.AssemblyInfoInputs.cache
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\obj\Debug\net6.0\Floating Test.AssemblyInfo.cs
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\obj\Debug\net6.0\Floating Test.csproj.CoreCompileInputs.cache
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\obj\Debug\net6.0\Floating Test.dll
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\obj\Debug\net6.0\ref\Floating Test.dll
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\obj\Debug\net6.0\Floating Test.pdb
+C:\Users\anakn\Documents\Coding\cs learning hub\Alura\beggining and syntaxes\Floating Test\obj\Debug\net6.0\Floating Test.genruntimeconfig.cache
