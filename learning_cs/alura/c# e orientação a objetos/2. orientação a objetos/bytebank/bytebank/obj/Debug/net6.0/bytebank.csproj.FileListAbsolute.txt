@@ -1,0 +1,15 @@
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\bin\Debug\net6.0\ref\bytebank.dll
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\obj\Debug\net6.0\ref\bytebank.dll
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\Users\ackni\Documents\Code\playground\learning_cs\alura\c# e orientação a objetos\2. orientação a objetos\bytebank\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
