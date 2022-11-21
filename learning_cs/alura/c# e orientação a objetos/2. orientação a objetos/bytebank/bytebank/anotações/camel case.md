@@ -19,5 +19,3 @@ public class Categoria
 }
 
 ```
-
-### Sobre criação de objeto
