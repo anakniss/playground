@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bytebank", "bytebank\byteba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio", "desafio\desafio.csproj", "{40D61F03-C5E8-448E-8130-93A259C09A4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio II", "desafio II\desafio II.csproj", "{8F7D3D63-E18E-4633-BA70-EEC68B7ADA1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{40D61F03-C5E8-448E-8130-93A259C09A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D61F03-C5E8-448E-8130-93A259C09A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D61F03-C5E8-448E-8130-93A259C09A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7D3D63-E18E-4633-BA70-EEC68B7ADA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7D3D63-E18E-4633-BA70-EEC68B7ADA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7D3D63-E18E-4633-BA70-EEC68B7ADA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7D3D63-E18E-4633-BA70-EEC68B7ADA1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

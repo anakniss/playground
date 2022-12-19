@@ -2,14 +2,9 @@
 
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>desafio_II</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <OutputType>Exe</OutputType>
     </PropertyGroup>
-
-    <ItemGroup>
-      <None Remove="anotações\camel case e instanciamento de classe" />
-      <None Remove="anotações\definindo nomenclatura.txt" />
-    </ItemGroup>
 
 </Project>
