@@ -4,6 +4,9 @@ namespace bytebank.Contas;
 
 public class ContaCorrente
 {
+    //A propriedade "static" permite que a contagem seja relacionada diretamente a classe e não ao objeto. Sendo assim, 
+    //será contado o número total de contas criadas. O private no set significa que não podemos definir valores externamente.
+    public static int TotalContasCriadas { get; private set; }
     private int numeroAgencia;
 
     public int NumeroAgencia
@@ -71,5 +74,12 @@ public class ContaCorrente
     public double GetSaldo()
     {
         return this.saldo;
+    }
+
+    public ContaCorrente(int numeroAgencia, string numeroConta)
+    {
+        this.numeroAgencia = numeroAgencia;
+        this.Conta = numeroConta;
+        TotalContasCriadas++;
     }
 }
