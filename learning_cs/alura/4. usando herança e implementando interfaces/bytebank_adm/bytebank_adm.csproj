@@ -8,4 +8,16 @@
     <RootNamespace>bytebank_ADM</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Funcionários\Saber mais\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Funcionários\Saber mais\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Funcionários\Saber mais\**" />
+  </ItemGroup>
+
 </Project>

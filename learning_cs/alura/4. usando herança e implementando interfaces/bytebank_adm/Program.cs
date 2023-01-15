@@ -39,3 +39,6 @@ gerenciador.Registrar(maria);
 gerenciador.Registrar(andre);
 
 Console.WriteLine("Total de bonificações: " + gerenciador.GetBonificacao());
+Console.WriteLine("Total prêmio semestral: " + maria.PremioSemestral());
+
+Console.WriteLine("Total de funcionários: " + Funcionario.TotalDeFuncionarios);
