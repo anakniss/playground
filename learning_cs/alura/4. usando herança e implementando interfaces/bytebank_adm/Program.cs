@@ -1,4 +1,6 @@
-﻿using bytebank_adm.Funcionários;
+﻿using System.ComponentModel;
+using System.Threading.Channels;
+using bytebank_adm.Funcionários;
 using bytebank_adm.Funcionários.Utilitário;
 
 // Funcionario pedro = new Funcionario();
@@ -25,15 +27,11 @@ using bytebank_adm.Funcionários.Utilitário;
 
 GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
 
-Funcionario andre = new Funcionario();
+Funcionario andre = new Funcionario("546.879.157-20", 2000);
 andre.Nome = "André";
-andre.CPF = "546.879.157-20";
-andre.Salario = 2000;
 
-Diretor maria = new Diretor();
+Diretor maria = new Diretor("454.658.148-3", 5000);
 maria.Nome = "Maria";
-maria.CPF = "454.658.148-3";
-maria.Salario = 5000;
 
 gerenciador.Registrar(maria);
 gerenciador.Registrar(andre);
@@ -42,3 +40,10 @@ Console.WriteLine("Total de bonificações: " + gerenciador.GetBonificacao());
 Console.WriteLine("Total prêmio semestral: " + maria.PremioSemestral());
 
 Console.WriteLine("Total de funcionários: " + Funcionario.TotalDeFuncionarios);
+Console.WriteLine("Total de diretores: " + Diretor.TotalDeDiretores);
+
+andre.AumentarSalario();
+maria.AumentarSalario();
+
+Console.WriteLine("Novo salário do André: " + andre.Salario );
+Console.WriteLine("Novo salário do Maria: " + maria.Salario );

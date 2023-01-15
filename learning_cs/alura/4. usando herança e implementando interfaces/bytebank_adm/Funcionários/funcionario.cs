@@ -3,8 +3,8 @@
 public class Funcionario
 {
     public string Nome { get; set; }
-    public string CPF { get; set; }
-    public double Salario { get; set; }
+    public string CPF { get; private set; }
+    public double Salario { get; protected set; }
     public static int TotalDeFuncionarios { get; private set; }
 
     public double GetBonificacao()
@@ -17,8 +17,16 @@ public class Funcionario
         return this.Salario * 0.20;
     }
 
-    public Funcionario()
+    public Funcionario(string cpf, double salario)
     {
+        this.Salario = salario;
+        this.CPF = CPF;
         TotalDeFuncionarios++;
+        //Console.WriteLine("Criando funcionário");
+    }
+
+    public virtual void AumentarSalario()
+    {
+        this.Salario *= 1.10;
     }
 }
