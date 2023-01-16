@@ -2,6 +2,9 @@
 using System.Threading.Channels;
 using bytebank_adm.Funcionários;
 using bytebank_adm.Funcionários.Utilitário;
+using bytebank_ADM.Sistema_Interno;
+
+#region MyRegion
 
 // Funcionario pedro = new Funcionario();
 // pedro.Nome = "Pedro Malazartes";
@@ -25,25 +28,68 @@ using bytebank_adm.Funcionários.Utilitário;
 //
 // Console.WriteLine("Total de bonificações: " + gerenciador.TotalBonificacao);
 
-GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+// GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+//
+// Funcionario andre = new Funcionario("546.879.157-20", 2000);
+// andre.Nome = "André";
+//
+// Diretor maria = new Diretor("454.658.148-3");
+// maria.Nome = "Maria";
+//
+// gerenciador.Registrar(maria);
+// gerenciador.Registrar(andre);
+//
+// Console.WriteLine("Total de bonificações: " + gerenciador.GetBonificacao());
+// Console.WriteLine("Total prêmio semestral: " + maria.PremioSemestral());
+//
+// Console.WriteLine("Total de funcionários: " + Funcionario.TotalDeFuncionarios);
+// Console.WriteLine("Total de diretores: " + Diretor.TotalDeDiretores);
+//
+// andre.AumentarSalario();
+// maria.AumentarSalario();
+//
+// Console.WriteLine("Novo salário do André: " + andre.Salario );
+// Console.WriteLine("Novo salário do Maria: " + maria.Salario );
 
-Funcionario andre = new Funcionario("546.879.157-20", 2000);
-andre.Nome = "André";
+#endregion
 
-Diretor maria = new Diretor("454.658.148-3", 5000);
-maria.Nome = "Maria";
+UsarSistema();
 
-gerenciador.Registrar(maria);
-gerenciador.Registrar(andre);
+void CalcularBonificacao()
+{
+    GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
 
-Console.WriteLine("Total de bonificações: " + gerenciador.GetBonificacao());
-Console.WriteLine("Total prêmio semestral: " + maria.PremioSemestral());
+    Designer ulisses = new Designer("123456");
+    ulisses.Nome = "Ulisses Souza";
 
-Console.WriteLine("Total de funcionários: " + Funcionario.TotalDeFuncionarios);
-Console.WriteLine("Total de diretores: " + Diretor.TotalDeDiretores);
+    Diretor paula = new Diretor("654321");
+    paula.Nome = "Paula Souza";
 
-andre.AumentarSalario();
-maria.AumentarSalario();
+    Auxiliar igor = new Auxiliar("436799");
+    igor.Nome = "Igor Dias";
 
-Console.WriteLine("Novo salário do André: " + andre.Salario );
-Console.WriteLine("Novo salário do Maria: " + maria.Salario );
+    GerenteContas camila = new GerenteContas("987654");
+    camila.Nome = "Camila Oliveira";
+
+    gerenciador.Registrar(ulisses);
+    gerenciador.Registrar(paula);
+    gerenciador.Registrar(igor);
+    gerenciador.Registrar(camila);
+
+    Console.WriteLine("Total de Bonificação: " + gerenciador.TotalBonificacao);
+}
+
+void UsarSistema()
+{
+    SistemaInterno sistema = new SistemaInterno();
+    Diretor ingrid = new Diretor("987654");
+    ingrid.Nome = "Ingrid Novaes";
+    ingrid.Senha = "123";
+
+    GerenteContas ursula = new GerenteContas("765432");
+    ursula.Nome = "Ursula Alcantara";
+    ursula.Senha = "321";
+    
+    sistema.Logar(ingrid, "123");
+    sistema.Logar(ursula, "963");
+}
