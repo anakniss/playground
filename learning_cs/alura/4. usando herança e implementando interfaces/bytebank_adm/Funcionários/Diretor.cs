@@ -2,7 +2,7 @@
 
 namespace bytebank_adm.Funcionários;
 
-public class Diretor : Autenticavel
+public class Diretor : FuncionarioAutenticavel
 {
     public static int TotalDeDiretores { get; private set; }
     public override double GetBonificacao()
@@ -22,10 +22,5 @@ public class Diretor : Autenticavel
     public override void AumentarSalario()
     {
         this.Salario *= 1.15;
-    }
-
-    public override bool Autenticar(string senha)
-    {
-        return this.Senha == senha;
     }
 }

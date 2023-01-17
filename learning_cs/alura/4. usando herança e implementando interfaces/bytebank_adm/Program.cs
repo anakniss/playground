@@ -2,6 +2,7 @@
 using System.Threading.Channels;
 using bytebank_adm.Funcionários;
 using bytebank_adm.Funcionários.Utilitário;
+using bytebank_ADM.Parceria;
 using bytebank_ADM.Sistema_Interno;
 
 #region MyRegion
@@ -89,7 +90,11 @@ void UsarSistema()
     GerenteContas ursula = new GerenteContas("765432");
     ursula.Nome = "Ursula Alcantara";
     ursula.Senha = "321";
+
+    ParceiroComercial caio = new ParceiroComercial();
+    caio.Senha = "999";
     
     sistema.Logar(ingrid, "123");
     sistema.Logar(ursula, "963");
+    sistema.Logar(caio, "999");
 }

@@ -2,7 +2,7 @@
 
 namespace bytebank_adm.Funcionários;
 
-public class GerenteContas : Autenticavel
+public class GerenteContas : FuncionarioAutenticavel
 {
     public GerenteContas(string cpf) : base(cpf, 4000)
     {
@@ -21,10 +21,5 @@ public class GerenteContas : Autenticavel
     public override double PremioSemestral()
     {
         return this.Salario * 0.20;
-    }
-    
-    public override bool Autenticar(string senha)
-    {
-        return this.Senha == senha;
     }
 }
